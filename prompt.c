@@ -46,6 +46,7 @@ int main(int argc, char** argv) {
         
         //Free input memory
         free(input);
+
     }
 
     return 0;
